@@ -5,6 +5,9 @@ HTTP-client Component
 [![License](http://img.shields.io/packagist/l/SocialConnect/http-client.svg?style=flat-square)](https://github.com/SocialConnect/http-client/blob/master/LICENSE)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSocialConnect%2Fhttp-client.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSocialConnect%2Fhttp-client?ref=badge_shield)
 
+
+> **Note:** This is a fork of the original `socialconnect/http-client` package and is only used for internal purposes at Maria Middelares.
+
 `socialconnect/http-client` is a package that provide PHP HTTP client with PSR-18 compatibility, that makes it easy 
 to send HTTP requests and trivial to integrate with web services.
 
